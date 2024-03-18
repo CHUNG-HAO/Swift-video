@@ -1,4 +1,5 @@
 # Swift-video
+> 匯入
 
 > AVKit:
 
@@ -27,3 +28,9 @@
 > NotificationCenter:
 
 這是一種用於發送和接收應用程序級別通知的連接。它被用來處理影片播放結束的通知。
+
+## Demo
+
+<img width="390" alt="image" src="https://github.com/CHUNG-HAO/Swift-video/assets/67829896/5bf87e3c-f6ac-4a55-b2c7-810c454c6a96">
+
+
